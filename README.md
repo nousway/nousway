@@ -7,3 +7,5 @@
 
 📫 **Как связаться:**  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/tsm_ai)  
+
+📢 **Последний пост в Telegram**: [Читать](https://t.me/s/fastiqwui)
